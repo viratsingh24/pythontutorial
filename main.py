@@ -1,20 +1,16 @@
-#print("hello world")#hey virat how are uh
-#comments in python
-'''print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")'''
-#comments used to describe the things
-#variables in python(variables are used to store anything)
-a=3
-print(a)
-b=55
-print(b)
-a=6.2
-print(a)
-c= True# false they are boolean data types
-print(c)
-d="harry"
-print(d)
-e=None#also a data types
-print(e)
+# This is a sample Python script.
+
+# Press Shift+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    print_hi('PyCharm')
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
